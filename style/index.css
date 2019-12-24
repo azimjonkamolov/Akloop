@@ -1,0 +1,135 @@
+/* 
+Author: Azimjon Kamolov
+ID: 16012684
+Project #: 1
+Project's name: akloop.com
+  */
+
+
+/* index.php part's css STARTS FROM HERE */
+/* 
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.header
+{
+    height: 95vh;
+    background-size: cover;
+    background-position: top;
+    position: relative;
+}
+
+.footer
+{
+    background-color: black;
+    height: 5vh;
+    text-align: center;
+    color: #FAFAFA;
+}
+
+.serviceBox
+{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+}
+
+.services
+{
+    height: 90px;;
+}
+
+.main-logo
+{
+    display: block;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} */
+
+/* .central-part
+{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: tran
+} */
+/* 
+.input-text
+{
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.input-text
+{
+    border: none;
+    box-shadow: 0 2px 0 rgba(0,0,0, 0.16),
+    0 0 0 1px rgba(0,0,0, 0.08);
+    height: 44px;
+    border-radius: 2px;
+    outline: none;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+    max-width: 630px;
+    width: 600px;
+    color: #000;
+}
+
+.input-button
+{   
+    display: block;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    color: #757575;
+    background-color: #FAFAFA;
+    border: none;
+    height: 36px;
+    width: 125px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 20;
+    cursor: pointer;
+    outline: none;
+}
+
+.input-button:hover
+{
+    background-color: #000;
+    color: #FAFAFA;
+}
+
+.main-logo-pic
+{
+    height: 260px;
+}
+
+.for-info
+{
+    text-decoration: none;
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    padding: 5px;
+    color: #FAFAFA;
+} */
+
+/* index.php part's css ENDS HERE */
