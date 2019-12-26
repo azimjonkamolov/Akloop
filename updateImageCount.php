@@ -2,8 +2,8 @@
 include ("config.php");
 if(isset($_POST["imageUrl"]))
 {
-    $query=$con->prepare("UPDATE images SET img_clicks = img_clicks + 1 WHERE img_imageUrl=:imageUrl");
-    $query->bindParam(":imageUrl", $_POST["img_imageUrl"]);
+    $query=$con->prepare("UPDATE images SET clicks = clicks + 1 WHERE imageUrl=:imageUrl");
+    $query->bindParam(":imageUrl", $_POST["imageUrl"]);
     $query->execute();
 }
 else
