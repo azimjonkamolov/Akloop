@@ -66,7 +66,7 @@
     <footer class="index__footer">
       <div class="index__bottom">
         <ul class="index__links">        
-          <li><a href="#about">Business</a></li>
+          <li><a href="#about">Technologies</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#about">Privacy</a></li>
           <!-- <li><a href="#about">Terms</a></li>
