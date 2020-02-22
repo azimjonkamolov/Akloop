@@ -55,9 +55,9 @@
     <footer class="index__footer">
       <div class="index__bottom">
         <ul class="index__links">        
-          <li><a href="#about">Technologies</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#about">Privacy</a></li>
+          <li><a href="sup/techno.html">Technologies</a></li>
+          <li><a href="sup/info.html">About</a></li>
+          <li><a href="sup/term.html">Privacy</a></li>
         </ul>
       </div>
     </footer>
