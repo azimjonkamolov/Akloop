@@ -7,7 +7,7 @@
 
 </p>
 
-**This is a search engine powered by PHP**
+**This is a search engine powered by PHP, visit: [www.akloop.com](https://www.akloop.com)**
 
 ---
 <p float="left">
@@ -68,16 +68,15 @@ akloop.sql file is provided, this file must be imported into a database and then
 
 ## Functions that this website can handle so far ##
 
-    * Admin can insert a new product
-    * Customer can order
-    * Customer can check items by categories
-    * Customer can save items in a cart
-    * Customer can delete or but items from cart
-    * Registration and Log in
-    * Update information anytime
+    * Admin can select a website to crawl
+    * User can search by data type
+    * Website filters data automatically
+    * Broken links are not used
+    * Search results are sorted by popularity
+    * Images can be in a bigger view
 
 
 ## 📝 License
 
-Copyright © 2018 [Azimjon Kamolov](https://github.com/mynameisone).<br />
+Copyright © 2019 [Azimjon Kamolov](https://github.com/mynameisone).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
