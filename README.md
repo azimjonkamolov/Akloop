@@ -7,7 +7,7 @@
 
 </p>
 
-**This is a search engine powered by PHP, visit: [www.akloop.com](https://www.akloop.com)**
+**This is a search engine powered by PHP**
 
 ---
 <p float="left">
