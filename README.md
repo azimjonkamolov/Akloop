@@ -32,7 +32,7 @@ For further help please contact: `azimjon.6561@gmail.com`
 <img src="https://github.com/mynameisone/Main/blob/master/img/M.png?raw=true" width = "125" height="150" alt="SQL" />
 </p>
 
-## How to get a request from a user
+## To get a request from a user
 ```
 // Get method is used to get a data from a user
 <form class="index__form" action="search.php" methode="GET">
@@ -44,6 +44,26 @@ For further help please contact: `azimjon.6561@gmail.com`
     </div>
     <button class="index__button" aria-label="Search" type="submit"></button>
 </form>
+```
+
+## To connect data base
+
+akloop.sql file is provided, this file must be imported into a database and then some vatiable names must be given in config.php file.
+```
+<?php
+    ob_start();
+    try
+    {
+	$con = new PDO("mysql:dbname=database_name; host=host_name", "user_name", "password");
+        $con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_WARNING);
+    }
+    catch(PODExeption $e)
+    {
+        echo "Connection failed: " . $e->getMessage();
+    }
+?>
+
+
 ```
 
 ## Functions that this website can handle so far ##
