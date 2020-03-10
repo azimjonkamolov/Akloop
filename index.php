@@ -35,14 +35,9 @@
       <div class="index__search">
         <form class="index__form" action="search.php" methode="GET">
           <div>
-            <input name="term" type="search"
-                   class="index__query" 
-                   maxlength="512"
-                   autocomplete="off"
-                   title="Search"
-                   aria-label="Search"
-                   dir="ltr"
-                   spellcheck="false"
+            <input name="term" type="search" class="index__query" 
+                   maxlength="512" autocomplete="off" title="Search"
+                   aria-label="Search" dir="ltr" spellcheck="false"
                    autofocus="autofocus"
             >
           </div>
