@@ -2,3 +2,4 @@ classes
 crawl.php
 updateImageCount.php
 updateLinkCount.php
+akloop.sql

@@ -50,9 +50,9 @@
     <footer class="index__footer">
       <div class="index__bottom">
         <ul class="index__links">        
-          <li><a href="sup/techno.html">Technologies</a></li>
+          <li><a href="https://github.com/azimjonkamolov/Akloop">Github</a></li>
+          <li><a href="https://azimjon.netlify.app/">Creator</a></li>
           <li><a href="sup/info.html">About</a></li>
-          <li><a href="sup/term.html">Privacy</a></li>
         </ul>
       </div>
     </footer>
