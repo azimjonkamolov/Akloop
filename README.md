@@ -11,8 +11,8 @@
 
 ---
 <p float="left">
-<img src="https://github.com/mynameisone/Main/blob/master/img/p2.PNG?raw=true" width = "400" height="250" alt="First pirture" /> 
-<img src="https://github.com/mynameisone/Main/blob/master/img/P21.PNG?raw=true" width = "400" height="250" alt="First pirture" /> 
+<img src="https://github.com/azimjonkamolov/azimjon/blob/master/assets/img/p2.PNG?raw=true" width = "400" height="250" alt="First pirture" /> 
+<img src="https://github.com/azimjonkamolov/azimjon/blob/master/assets/img/P21.PNG?raw=true" width = "400" height="250" alt="First pirture" /> 
 </p>
 
 ---
